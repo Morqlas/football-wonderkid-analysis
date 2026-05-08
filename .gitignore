@@ -34,6 +34,8 @@ report/index_files/
 Thumbs.db
 
 # IDE
-.vscode/
+!.vscode/
+.vscode/*
+!.vscode/settings.json
 .idea/
 *.swp
